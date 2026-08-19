@@ -41,5 +41,4 @@ These helped reveal key trends in Netflix content.
 -Movies dominate the dataset compared to TV Shows
 -Multiple rating categories are present
 -Content has grown significantly over the years
--Wide diversity in genres and countries
 -Clear patterns in popular content types, directors, and actors
