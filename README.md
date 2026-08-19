@@ -1,5 +1,5 @@
 # Netflix-_Data_Analysis
-Netflix titles data cleaning,analysis, and visualization using python.
+Netflix titles Data Cleaning,Analysis, and Visualization using python.
 # Project Overview 
  - This project analyzes the Netflix titles dataset to understand the distribution and characteristics of movies and TV shows available on Netflix.
  - The project includes data cleaning,Exploratory data analysis(EDA),data visualization, and insight generation using python.
